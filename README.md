@@ -1,7 +1,7 @@
 <h2> Hi, I'm Atharva Dubey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230"/>
 
-[![Linkedin: your-linkedin](https://img.shields.io/badge/-your--linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![Linkedin: your-linkedin](https://img.shields.io/badge/-your--linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[your-linkedin/](https://www.linkedin.com/in/atharva-dubey-068258330/))](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter: your-twitter](https://img.shields.io/badge/-@yourtwitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/yourtwitter)](https://x.com/yourtwitter)
 [![LeetCode: your-leetcode](https://img.shields.io/badge/-yourleetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/your-leetcode/)](https://leetcode.com/u/your-leetcode/)
 [![GitHub atharvadubey](https://img.shields.io/github/followers/atharvadubey?label=follow&style=social)](https://github.com/atharvadubey)
