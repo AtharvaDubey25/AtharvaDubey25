@@ -6,9 +6,9 @@
 [![LeetCode: your-leetcode](https://img.shields.io/badge/-yourleetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/your-leetcode/)](https://leetcode.com/u/your-leetcode/)
 [![GitHub atharvadubey](https://img.shields.io/github/followers/atharvadubey?label=follow&style=social)](https://github.com/atharvadubey)
 
-**2nd Year B.Tech CS Student**  
+**B.Tech CS Student**  
 
-🚀 Currently diving deep into **Machine Learning & NLP**  
+🚀 Currently diving deep into **Machine Learning **  
 🧠 Solving problems on **LeetCode & DSA** to sharpen my skills  
 💻 Exploring **FastAPI & Backend Development** along with Python  
 🎯 **Goal:** Building impactful AI-driven applications & real-world projects  
@@ -19,12 +19,8 @@
 **Languages and Tools:**
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
 ---
