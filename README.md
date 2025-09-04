@@ -1,4 +1,4 @@
-<h2> Hi, I'm Atharva Dubey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Atharva Dubey! 
 
 [![Linkedin: Atharva Dubey](https://img.shields.io/badge/-Atharva%20Dubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-dubey-068258330/)](https://www.linkedin.com/in/atharva-dubey-068258330/)
 [![LeetCode: atharva_dubey](https://img.shields.io/badge/-atharva__dubey-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/atharva_dubey/)](https://leetcode.com/u/atharva_dubey/)
@@ -22,7 +22,3 @@
 </p>
 
 ---
-
-*"Building smart systems while staying curious & creative."*  
-
-⭐️ From [@atharvadubey](https://github.com/atharvadubey)
