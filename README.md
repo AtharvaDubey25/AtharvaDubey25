@@ -3,17 +3,17 @@
 [![Linkedin: Atharva Dubey](https://img.shields.io/badge/-Atharva%20Dubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-dubey-068258330/)](https://www.linkedin.com/in/atharva-dubey-068258330/)
 [![LeetCode: atharva_dubey](https://img.shields.io/badge/-atharva__dubey-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/atharva_dubey/)](https://leetcode.com/u/atharva_dubey/)
 
-<h3>
+<p>
 **B.Tech CS Student**  
 
-🚀 Currently diving deep into **Machine Learning **  
+🚀 Currently diving deep into **Machine Learning**  
 🧠 Solving problems on **LeetCode & DSA** to sharpen my skills  
 💻 Exploring **FastAPI & Backend Development** along with Python  
 🎯 **Goal:** Building impactful AI-driven applications & real-world projects  
 
 <em><b>I enjoy coding, filmmaking, and music</b> – always excited to connect, collaborate, and share ideas! 🚀</em>
 
-</h3>
+</p>
 
 **Languages and Tools:**
 <p align="left">
