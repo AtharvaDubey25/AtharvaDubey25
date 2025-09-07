@@ -4,7 +4,7 @@
 [![LeetCode: atharva_dubey](https://img.shields.io/badge/-atharva__dubey-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/atharva_dubey/)](https://leetcode.com/u/atharva_dubey/)
 
 <p>
-**B.Tech CS Student**  
+B.Tech CS Student
 
 🚀 Currently diving deep into **Machine Learning**  
 🧠 Solving problems on **LeetCode & DSA** to sharpen my skills  
